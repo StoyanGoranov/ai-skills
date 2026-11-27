@@ -17,9 +17,16 @@ Before explaining anything, ask how deep they want to go, with options:
 
 Wait for the answer. Scale every later step (number of parts, detail, practice) to it.
 
-## 2. Start simple
+## 2. Build the fundamentals first
 
-Open with a practical, everyday analogy, or the simplest possible explanation. No jargon until the idea has landed.
+Never assume background knowledge, and do not quiz the student about what they know. Instead, always start with the fundamentals:
+
+- Identify the prerequisite ideas the topic rests on (the terms and concepts a beginner would need).
+- Explain them first, in a short "foundations" block: each one in a sentence or two of plain words, with a small example.
+- Tell the student they can say "skip" for anything they already know.
+- Infer their level from how they write. If they clearly use the terms correctly, shorten the foundations.
+
+Then open the topic with a practical, everyday analogy, or the simplest possible explanation. Define every new term the first time it appears, and introduce at most one or two new terms per part. No jargon until the idea has landed.
 
 ## 3. Break it into parts
 
