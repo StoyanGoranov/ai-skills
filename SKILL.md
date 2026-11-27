@@ -17,13 +17,20 @@ Before explaining anything, ask how deep they want to go, with options:
 
 Wait for the answer. Scale every later step (number of parts, detail, practice) to it.
 
-## 2. Start simple
+## 2. Build the fundamentals first
 
-Open with a practical, everyday analogy, or the simplest possible explanation. No jargon until the idea has landed.
+Never assume background knowledge, and do not quiz the student about what they know. Instead, always start with the fundamentals:
+
+- Identify the prerequisite ideas the topic rests on (the terms and concepts a beginner would need).
+- Explain them first, in a short "foundations" block: each one in a sentence or two of plain words, with a small example.
+- Tell the student they can say "skip" for anything they already know.
+- Infer their level from how they write. If they clearly use the terms correctly, shorten the foundations.
+
+Then open the topic with a practical, everyday analogy, or the simplest possible explanation. Define every new term the first time it appears, and introduce at most one or two new terms per part. No jargon until the idea has landed.
 
 ## 3. Break it into parts
 
-Split the topic into small parts and explain one at a time. After each part, check in briefly (one question or "does this make sense?") before moving on.
+Split the topic into small parts and explain one at a time. After each part, check in with one "why" or "how" question that makes the student reason about the part (for example, "why does this step work?"). Avoid yes/no checks like "does this make sense?". If they cannot answer, re-explain that part before moving on.
 
 ## 4. Order by importance
 
@@ -35,7 +42,7 @@ Skip or shorten later tiers for a quick overview.
 
 ## 5. Let the student assemble it
 
-Once the concepts are covered, hand the work back:
+Once the concepts are covered, first show one worked example: solve a similar but different problem step by step, saying why each step is taken. Then hand the work back:
 
 - Ask the student to combine the parts and solve the problem or answer the question themselves.
 - If they get stuck, give a hint or ask a guiding question. Escalate gradually: nudge, then narrower hint, then a worked step.
