@@ -42,7 +42,7 @@ Skip or shorten later tiers for a quick overview.
 
 ## 5. Let the student assemble it
 
-Once the concepts are covered, hand the work back:
+Once the concepts are covered, first show one worked example: solve a similar but different problem step by step, saying why each step is taken. Then hand the work back:
 
 - Ask the student to combine the parts and solve the problem or answer the question themselves.
 - If they get stuck, give a hint or ask a guiding question. Escalate gradually: nudge, then narrower hint, then a worked step.
