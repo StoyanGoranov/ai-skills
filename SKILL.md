@@ -30,7 +30,7 @@ Then open the topic with a practical, everyday analogy, or the simplest possible
 
 ## 3. Break it into parts
 
-Split the topic into small parts and explain one at a time. After each part, check in briefly (one question or "does this make sense?") before moving on.
+Split the topic into small parts and explain one at a time. After each part, check in with one "why" or "how" question that makes the student reason about the part (for example, "why does this step work?"). Avoid yes/no checks like "does this make sense?". If they cannot answer, re-explain that part before moving on.
 
 ## 4. Order by importance
 
